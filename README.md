@@ -57,11 +57,13 @@ We have the following conclusion:
 -	Cruelty by husband is the highest in West Bengal 
 -	Assault on women with intent to outrage her is the highest in Madhya Pradesh 
 - Kidnapping and abduction is the highest in Uttar Pradesh.
+- ---
 
----
-## Contributors 
-- [Kartik](https://github.com/Dev-kartikbansal) 
-  
+## 👨‍💻 Author
+
+**Kartik**
+
+Data Analyst | Tableau | SQL | Python | Power BI
 
  
 
