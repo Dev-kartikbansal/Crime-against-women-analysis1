@@ -1,4 +1,9 @@
 # Analysis on ```crime against women in India from 2008-2012``` 
+
+## Overview
+This project analyzes crime against women in India from 2008 to 2012 using data visualization and exploratory data analysis techniques. The goal is to identify trends, regional patterns, and the most prevalent categories of crime.
+
+
 ## Screenshots of our story created on ```Tableau``` 
 
 This project analyzes crime against women in India from 2008 to 2012 using data visualization and exploratory data analysis techniques. The goal is to identify trends, regional patterns, and the most prevalent categories of crime.
