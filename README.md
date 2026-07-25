@@ -1,6 +1,8 @@
 # Analysis on ```crime against women in India from 2008-2012``` 
 ## Screenshots of our story created on ```Tableau``` 
 
+Interactive Tableau dashboard analyzing crime against women in India (2008–2012) to uncover state-wise trends, crime patterns, and key insights.
+
 - Introduction :
 ## Overview
 This project analyzes crime against women in India from 2008 to 2012 using data visualization and exploratory data analysis techniques. The goal is to identify trends, regional patterns, and the most prevalent categories of crime.
